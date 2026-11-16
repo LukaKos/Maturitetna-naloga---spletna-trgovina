@@ -65,6 +65,7 @@
 
 .izdelek_pov
 {
+    display: flex;
     text-decoration: none;
     color: black;
 }
